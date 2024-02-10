@@ -2,7 +2,7 @@
 
 ## List of projects:
 
-# <script src="https://github.com/Afterburn3/FrontEndAPI">Joke Generator</script>
+# Joke Generator
 
 Vanilla JavaScript single-page-application. This app is meant for people who are looking to become a comedian. 
 
@@ -10,7 +10,8 @@ Joke aside, user can generate random types of joke and have the options to filte
 
 This project uses Joke API. 
 
-Witness a step-by-step presentation of this project via the walkthrough available <script src="https://youtu.be/EIO6f28T44w">here</script>,  and delve into a blog post detailing its development <script src="https://medium.com/@tksthebest3/joke-generator-my-first-javascript-project-49d838725816">here</script>.
+Witness a step-by-step presentation of this project via the walkthrough available https://youtu.be/EIO6f28T44w  and 
+Delve into a blog post detailing its development https://medium.com/@tksthebest3/joke-generator-my-first-javascript-project-49d838725816
 
 
 
