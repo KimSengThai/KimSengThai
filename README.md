@@ -1,8 +1,8 @@
 ### HEY! 👋 my name is Kim Seng Thai, a junior Software Engineer with a background in Civil based in Sydney who is studying at Academy Xi's Software Engineering Transform course
 
-## List of projects:
+# List of projects:
 
-# Joke Generator
+### Joke Generator
 
 Vanilla JavaScript single-page-application. This app is meant for people who are looking to become a comedian. 
 
