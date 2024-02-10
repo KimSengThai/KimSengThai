@@ -10,7 +10,8 @@ Joke aside, user can generate random types of joke and have the options to filte
 
 This project uses Joke API. 
 
-Witness a step-by-step presentation of this project via the walkthrough available https://youtu.be/EIO6f28T44w  and 
+Witness a step-by-step presentation of this project via the walkthrough available https://youtu.be/EIO6f28T44w
+
 Delve into a blog post detailing its development https://medium.com/@tksthebest3/joke-generator-my-first-javascript-project-49d838725816
 
 
