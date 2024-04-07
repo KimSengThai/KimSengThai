@@ -21,13 +21,14 @@ I'm from Australia, a Software Engineer with a background as a Site Engineer for
 
 **[Express Blog](https://github.com/KimSengThai/Express-Blog)**
 - Created a robust full-stack web blog application using Node.js, Express.js, EJS, and MongoDB. Implemented features for content management, and database interaction, ensuring seamless functionality and optimal performance.
+![backendWebBlog](https://github.com/KimSengThai/KimSengThai/assets/148199726/e7c0304e-84c2-4e81-b417-11597d27ab21)
 <br>
 
 **[Laugh Lab](https://github.com/KimSengThai/Laugh-Lab)**
 - A one-page application using vanilla JavaScript and API integration, allowing users to generate random jokes and become an expert in the comedic space.
 <br>
 
-![backendWebBlog](https://github.com/KimSengThai/KimSengThai/assets/148199726/e7c0304e-84c2-4e81-b417-11597d27ab21)
+
 
 ## You can reach me on LinkedIn:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kimseng-thai/)  
