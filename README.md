@@ -2,7 +2,7 @@
 
 I'm Kim Seng from Australia, a Software Engineer with a background as a Civil Engineer for 3 years. I really enjoy learning languages and frameworks like React and jQuery. I also enjoy ui, ux, and design in general. You can check out my LinkedIn at https://www.linkedin.com/in/kimseng-thai/.
 
-![Kim Seng's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimSengThai&theme=dark&show_icons=true)
+![Kim Seng's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimSengThai&theme=transparent&show_icons=true)
 
 # List of projects:
 
