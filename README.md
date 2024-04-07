@@ -1,8 +1,15 @@
-### Howdy! 👋 
+### Hi there 👋, Kim Seng
+#### Design and Development
+![Design and Development](https://media.licdn.com/dms/image/D5616AQHKOywPEBBs6A/profile-displaybackgroundimage-shrink_350_1400/0/1709732979910?e=1718236800&v=beta&t=teen_VGujjo6OWBDHikhhMB0PBXct8eywj0MOHgLD9k)
 
-I'm Kim Seng from Australia, a Software Engineer with a background as a Site Engineer for the past 3 years. I really enjoy learning languages and frameworks like React and jQuery. I also enjoy ui, ux, and design in general. You can check out my LinkedIn at https://www.linkedin.com/in/kimseng-thai/.
+I'm Kim Seng from Australia, a Software Engineer with a background as a Site Engineer for the past 3 years. I really enjoy learning languages and frameworks like React and jQuery. I also enjoy ui, ux, and design in general.
 
-![Kim Seng's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimSengThai&theme=transparent&show_icons=true)
+Skills: REACT / JS / Node.js / PostgreSQL / Python / HTML / CSS
+
+- 🔭 I’m currently working on Python Projects 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KimSengThai)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kimseng-thai/)  
 
 # List of projects:
 
