@@ -1,8 +1,12 @@
-### HEY! 👋 my name is Kim Seng Thai, a junior Software Engineer with a background in Civil based in Sydney who is studying at Academy Xi's Software Engineering Transform course
+### Howdy! 👋 
+
+I'm Kim Seng from Australia, a Software Engineer with a background as a Civil Engineer for 3 years. I really enjoy learning languages and frameworks like React and jQuery. I also enjoy ui, ux, and design in general. You can check out my LinkedIn at https://www.linkedin.com/in/kimseng-thai/.
+
+![Kim Seng's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimSengThai&theme=dark&show_icons=true)
 
 # List of projects:
 
-### Joke Generator
+### Laugh Lab
 
 Vanilla JavaScript single-page-application. This app is meant for people who are looking to become a comedian. 
 
@@ -14,19 +18,6 @@ Witness a step-by-step presentation of this project via the walkthrough availabl
 
 Delve into a blog post detailing its development https://medium.com/@tksthebest3/joke-generator-my-first-javascript-project-49d838725816
 
+### Express Blogs
 
-
-<!--
-**Afterburn3/Afterburn3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Story Spotlight
