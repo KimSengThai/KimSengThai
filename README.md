@@ -1,4 +1,3 @@
-
 ![Design and Development](https://media.licdn.com/dms/image/D5616AQHKOywPEBBs6A/profile-displaybackgroundimage-shrink_350_1400/0/1709732979910?e=1718236800&v=beta&t=teen_VGujjo6OWBDHikhhMB0PBXct8eywj0MOHgLD9k)
 
 # Howdy👋, I'm Kim
