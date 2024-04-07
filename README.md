@@ -14,7 +14,7 @@ I'm from Australia, a Software Engineer with a background as a Site Engineer for
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kimseng-thai/)  
+
 
 ## Example of Work
 
@@ -33,3 +33,6 @@ Delve into a blog post detailing its development https://medium.com/@tksthebest3
 ### Express Blogs
 
 ### Story Spotlight
+
+## You can reach me on LinkedIn:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kimseng-thai/)  
