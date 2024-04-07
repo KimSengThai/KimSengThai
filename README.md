@@ -11,11 +11,6 @@ I'm from Australia, a Software Engineer with a background as a Site Engineer for
 * 🐍 Python
 * 💻 HTML, CSS
 
-
-
-
-
-
 ## Example of Work
 
 ### Laugh Lab
