@@ -22,7 +22,7 @@ I'm from Australia, a Software Engineer with a background as a Site Engineer for
 
 **[Express Blog](https://github.com/KimSengThai/Express-Blog)**
 - Created a full-stack web blog application using Node.js, Express.js, EJS, and MongoDB. Implemented features for content management, and database interaction, ensuring seamless functionality and optimal performance.
-- ![backendWebBlog](https://github.com/KimSengThai/KimSengThai/assets/148199726/e7c0304e-84c2-4e81-b417-11597d27ab21)
+- ![image](https://gist.github.com/assets/148199726/5b768f48-a285-4559-8b0a-4fd78e6155b9)
 <br>
 
 **[Laugh Lab](https://github.com/KimSengThai/Laugh-Lab)**
