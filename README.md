@@ -17,20 +17,20 @@ I'm from Sydney, a Software Engineer with a background as a Site Engineer for th
 
 **[Story Spotlight (frontend, ](https://github.com/KimSengThai/StorySpotlight-Frontend) [backend)](https://github.com/KimSengThai/StorySpotlight-Backend)**
 - Developed a full stack React application, built with Node.js and PostgreSQL! The application is designed for book enthusiasts to share their opinions on various books and organize their favourite reads. Users can write reviews, share insights, and curate their personal collection of beloved books.
-- ![image](https://github.com/KimSengThai/KimSengThai/assets/148199726/3f710bfa-875d-48d1-b4e7-79f7a1b1a1ae)
-- ![image](https://github.com/KimSengThai/KimSengThai/assets/148199726/531fcb6b-e16c-4934-af81-615120512ae0)
+![image](https://github.com/KimSengThai/KimSengThai/assets/148199726/3f710bfa-875d-48d1-b4e7-79f7a1b1a1ae)
+![image](https://github.com/KimSengThai/KimSengThai/assets/148199726/531fcb6b-e16c-4934-af81-615120512ae0)
 <br>
 
 **[Express Blog](https://github.com/KimSengThai/Express-Blog)**
 - Created a full-stack web blog application using Node.js, Express.js, EJS, and MongoDB. Implemented features for content management, and database interaction, ensuring seamless functionality and optimal performance.
-- ![image](https://github.com/KimSengThai/KimSengThai/assets/148199726/daea9998-4327-41fc-a7e3-0f389cc7a598)
+![image](https://github.com/KimSengThai/KimSengThai/assets/148199726/daea9998-4327-41fc-a7e3-0f389cc7a598)
 <br>
 
 **[Laugh Lab](https://github.com/KimSengThai/Laugh-Lab)**
 - A one-page application using vanilla JavaScript and API integration, allowing users to generate random jokes and become an expert in the comedic space.
 - Read a blog post about the project [here](https://medium.com/p/49d838725816).
 - To view live project [here](https://jokefrontendapi.netlify.app/).
-- ![image](https://github.com/KimSengThai/KimSengThai/assets/148199726/b7e056a2-51e7-46f3-a3b8-3cd4c696b853)
+![image](https://github.com/KimSengThai/KimSengThai/assets/148199726/b7e056a2-51e7-46f3-a3b8-3cd4c696b853)
 <br>
 
 
