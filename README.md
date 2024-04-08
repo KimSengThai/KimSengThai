@@ -17,16 +17,17 @@ I'm from Australia, a Software Engineer with a background as a Site Engineer for
 
 **[Story Spotlight (frontend, ](https://github.com/KimSengThai/StorySpotlight-Frontend) [backend)](https://github.com/KimSengThai/StorySpotlight-Backend)**
 - Develop a full stack React application, built with Node.js and PostgreSQL! The application is designed for book enthusiasts to share their opinions on various books and organize their favourite reads. Users can write reviews, share insights, and curate their personal collection of beloved books.
-![image](https://github.com/KimSengThai/KimSengThai/assets/148199726/a51c4fbf-e365-4b70-ba23-fbb8f5f04509)
+- ![image](https://github.com/KimSengThai/KimSengThai/assets/148199726/a51c4fbf-e365-4b70-ba23-fbb8f5f04509)
 <br>
 
 **[Express Blog](https://github.com/KimSengThai/Express-Blog)**
 - Created a full-stack web blog application using Node.js, Express.js, EJS, and MongoDB. Implemented features for content management, and database interaction, ensuring seamless functionality and optimal performance.
-![backendWebBlog](https://github.com/KimSengThai/KimSengThai/assets/148199726/e7c0304e-84c2-4e81-b417-11597d27ab21)
+- ![backendWebBlog](https://github.com/KimSengThai/KimSengThai/assets/148199726/e7c0304e-84c2-4e81-b417-11597d27ab21)
 <br>
 
 **[Laugh Lab](https://github.com/KimSengThai/Laugh-Lab)**
 - A one-page application using vanilla JavaScript and API integration, allowing users to generate random jokes and become an expert in the comedic space.
+- Click [here](https://jokefrontendapi.netlify.app/) to view live project
 - ![frontEndAPI](https://github.com/KimSengThai/KimSengThai/assets/148199726/cece4edf-5089-4c59-ac91-b27c3f61ff2b)
 <br>
 
