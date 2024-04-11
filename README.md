@@ -19,6 +19,7 @@ I'm from Sydney, a Software Engineer with a background as a Site Engineer for th
 - Developed a full stack React application, built with Node.js and PostgreSQL! The application is designed for book enthusiasts to share their opinions on various books and organize their favourite reads. Users can write reviews, share insights, and curate their personal collection of beloved books.
 ![image](https://github.com/KimSengThai/KimSengThai/assets/148199726/3f710bfa-875d-48d1-b4e7-79f7a1b1a1ae)
 ![image](https://github.com/KimSengThai/KimSengThai/assets/148199726/531fcb6b-e16c-4934-af81-615120512ae0)
+![image](https://github.com/KimSengThai/KimSengThai/assets/148199726/8474b561-7b90-46ee-9a4d-fe77d108ea75)
 <br>
 
 **[Express Blog](https://github.com/KimSengThai/Express-Blog)**
