@@ -17,6 +17,7 @@ I'm from Sydney, a Software Engineer with a background as a Site Engineer for th
 
 **[Story Spotlight (frontend, ](https://github.com/KimSengThai/StorySpotlight-Frontend) [backend)](https://github.com/KimSengThai/StorySpotlight-Backend)**
 - Developed a full stack React application, built with Node.js and PostgreSQL! The application is designed for book enthusiasts to share their opinions on various books and organize their favourite reads. Users can write reviews, share insights, and curate their personal collection of beloved books.
+- Read a blog post about the project [here](https://medium.com/@tksthebest3/storyspotlight-my-full-stack-project-a41504bbd929).
 ![image](https://github.com/KimSengThai/KimSengThai/assets/148199726/3f710bfa-875d-48d1-b4e7-79f7a1b1a1ae)
 ![image](https://github.com/KimSengThai/KimSengThai/assets/148199726/531fcb6b-e16c-4934-af81-615120512ae0)
 ![image](https://github.com/KimSengThai/KimSengThai/assets/148199726/8474b561-7b90-46ee-9a4d-fe77d108ea75)
