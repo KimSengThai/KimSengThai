@@ -31,8 +31,8 @@ I'm from Sydney, a Software Engineer with a background as a Site Engineer for th
 **[Laugh Lab](https://github.com/KimSengThai/Laugh-Lab)**
 - A one-page application using vanilla JavaScript and API integration, allowing users to generate random jokes and become an expert in the comedic space.
 - Crafted a visually appealing interface with Bootstrap, ensuring a seamless user experience across different devices.
-- Read a blog post about the project [here](https://medium.com/p/49d838725816).
 - To view live project [here](https://jokefrontendapi.netlify.app/).
+- Read a blog post about the project [here](https://medium.com/p/49d838725816).
 <br>
 
 
