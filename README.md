@@ -25,7 +25,6 @@ I'm from Sydney, a Software Engineer with a background as a Site Engineer for th
 - Real-Time Updates: Get instant updates on new reviews, ratings, and book additions through real-time data handling.
 - Secure User Authentication: Safe and secure user authentication ensures your data and privacy are protected.
 - To view live project [here](https://storyspotlight-frontend.onrender.com/).
-- To view a walkthrough video of the project [here](https://youtu.be/Fzl2VZwufkQ).
 - Read a blog post about the project [here](https://medium.com/@tksthebest3/storyspotlight-my-full-stack-project-a41504bbd929).
 <br>
 
