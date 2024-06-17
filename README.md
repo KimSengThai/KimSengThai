@@ -1,4 +1,4 @@
-![Profile2](https://gist.github.com/assets/148199726/391c072d-37e0-475e-951d-c853dcac1d4e)
+![image](https://gist.github.com/assets/148199726/2e47a053-b9d3-4228-ae3b-8ff0e3e9cd8f)
 # Hello👋, I'm Kim
 I'm from Sydney, a Software Engineer with a background as a Site Engineer for the past 3 years. I really enjoy learning languages and frameworks like React and jQuery. I also enjoy ui, ux, and design in general.
 
