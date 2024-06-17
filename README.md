@@ -43,7 +43,10 @@ I'm from Sydney, a Software Engineer with a background as a Site Engineer for th
 <br>
 
 **[Express Blog](https://github.com/KimSengThai/Express-Blog)**
-- Created a full-stack web blog application using Node.js, Express.js, EJS, and MongoDB. Implemented features for content management, and database interaction, ensuring seamless functionality and optimal performance.
+- Express Blog is a blogging platform built with Express.js and MongoDB. It provides a clean and intuitive interface for creating, managing, and sharing your personal or professional blogs.
+- Easy Post Creation: Quickly create and publish new blog posts with an intuitive editor.
+- Comment System: Engage with readers through comments and discussions.
+- Tag Management: Organize your posts with tags for easy navigation and search.
 - Addressed performance concerns by optimizing load times through strategic utilization of EJS templating to render HTML server-side.
 <br>
 
