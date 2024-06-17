@@ -1,4 +1,4 @@
-![Uploading Profile2.jpg…]()
+![Profile2](https://gist.github.com/assets/148199726/391c072d-37e0-475e-951d-c853dcac1d4e)
 # Hello👋, I'm Kim
 I'm from Sydney, a Software Engineer with a background as a Site Engineer for the past 3 years. I really enjoy learning languages and frameworks like React and jQuery. I also enjoy ui, ux, and design in general.
 
