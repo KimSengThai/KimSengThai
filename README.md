@@ -14,8 +14,16 @@ I'm from Sydney, a Software Engineer with a background as a Site Engineer for th
 **Projects I've been working on:**
 
 **[Story Spotlight (frontend, ](https://github.com/KimSengThai/StorySpotlight-Frontend) [backend)](https://github.com/KimSengThai/StorySpotlight-Backend)**
-- Developed a full stack React application, built with Node.js and PostgreSQL! The application is designed for book enthusiasts to share their opinions on various books and organize their favourite reads. Users can write reviews, share insights, and curate their personal collection of beloved books.
-- Spearheaded the implementation of user-friendly features and authentication system, facilitating book enthusiasts to share opinions and organize favourite reads.
+- StorySpotlight is an intuitive and user-friendly book review platform designed to bring readers and book enthusiasts together. Developed using the PERN (PostgreSQL, Express.js, React, Node.js) stack, StorySpotlight provides a comprehensive interface for users to discover, review, and share their favorite books.
+- Comprehensive Book Listings: Explore a vast database of books across various genres and categories.
+- User Reviews and Ratings: Share your thoughts and rate books you’ve read, helping other readers make informed choices.
+- Personalized Recommendations: Receive tailored book recommendations based on your reading history and preferences.
+- Interactive User Profiles: Create and manage your personal profile, track your reading progress, and curate your own book lists.
+- Search and Filter Options: Find books easily with advanced search and filter capabilities by title, author, genre, and more.
+- Modern Tech Stack: Built with the robust and scalable PERN stack, ensuring high performance and reliability.
+- Responsive Design: Enjoy a seamless experience on any device with a fully responsive user interface.
+- Real-Time Updates: Get instant updates on new reviews, ratings, and book additions through real-time data handling.
+- Secure User Authentication: Safe and secure user authentication ensures your data and privacy are protected.
 - To view live project [here](https://storyspotlight-frontend.onrender.com/).
 - To view a walkthrough video of the project [here](https://youtu.be/Fzl2VZwufkQ).
 - Read a blog post about the project [here](https://medium.com/@tksthebest3/storyspotlight-my-full-stack-project-a41504bbd929).
