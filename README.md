@@ -40,6 +40,7 @@ I'm from Sydney, a Software Engineer with a background as a Site Engineer for th
 - Interactive CLI: Provides a user-friendly command-line interface with clear instructions and feedback, making property management tasks intuitive and straightforward.
 - Customizable Listings: Allows agents to customize property listings, and users can view details tailored to their specific needs.
 - Data Security: Includes secure data handling practices to protect user information and property details.
+- Read a blog post about the project [here](https://medium.com/@tksthebest3/learning-python-cli-development-rentwise-25174e29786c).
 <br>
 
 **[Express Blog](https://github.com/KimSengThai/Express-Blog)**
