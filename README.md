@@ -1,3 +1,4 @@
+![Uploading Profile2.jpg…]()
 # Hello👋, I'm Kim
 I'm from Sydney, a Software Engineer with a background as a Site Engineer for the past 3 years. I really enjoy learning languages and frameworks like React and jQuery. I also enjoy ui, ux, and design in general.
 
