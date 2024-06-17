@@ -32,7 +32,6 @@ I'm from Sydney, a Software Engineer with a background as a Site Engineer for th
 - Comprehensive Search: Users can search for properties based on various criteria such as location, type, number of bedrooms and bathrooms, and rental price.
 - Object-Oriented Design: The application is built using object-oriented programming principles, promoting reusable and maintainable code.
 - Customizable Listings: Allows agents to customize property listings, and users can view details tailored to their specific needs.
-- Data Security: Includes secure data handling practices to protect user information and property details.
 - Read a blog post about the project [here](https://medium.com/@tksthebest3/learning-python-cli-development-rentwise-25174e29786c).
 <br>
 
