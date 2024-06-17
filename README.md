@@ -1,4 +1,6 @@
-![image](https://gist.github.com/assets/148199726/2e47a053-b9d3-4228-ae3b-8ff0e3e9cd8f)
+![image](https://github.com/KimSengThai/KimSengThai/assets/148199726/33172ae1-1bc8-49f9-b8df-a7857bc8a560)
+
+
 # Hello👋, I'm Kim
 I'm from Sydney, a Software Engineer with a background as a Site Engineer for the past 3 years. I really enjoy learning languages and frameworks like React and jQuery. I also enjoy ui, ux, and design in general.
 
