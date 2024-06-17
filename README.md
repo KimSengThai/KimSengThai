@@ -21,6 +21,22 @@ I'm from Sydney, a Software Engineer with a background as a Site Engineer for th
 - Read a blog post about the project [here](https://medium.com/@tksthebest3/storyspotlight-my-full-stack-project-a41504bbd929).
 <br>
 
+**[RentWise](https://github.com/KimSengThai/RentWise)**
+- RentWise is a comprehensive command-line interface (CLI) application designed to streamline property management tasks for agents, applicants, and property owners. Built using Python and SQLite, RentWise provides an efficient and user-friendly platform to manage properties, applications, and user interactions.
+*** Features
+Role-Based Access: Different functionalities are available for agents, applicants, and property owners to ensure a tailored experience for each user type.
+- Property Management: Agents can add, edit, and manage property listings efficiently, ensuring up-to-date property data.
+- Application Handling: Applicants can easily view available properties, apply for new listings, and manage their applications. Agents can also review and update the status of property applications.
+- User Registration: Simple and effective user registration process for agents, applicants, and owners, ensuring seamless user onboarding.
+- Data Persistence: Utilizes SQLite for reliable and efficient data storage, ensuring data integrity and easy access.
+- Comprehensive Search: Users can search for properties based on various criteria such as location, type, number of bedrooms and bathrooms, and rental price.
+*** Key Highlights
+- Object-Oriented Design: The application is built using object-oriented programming principles, promoting reusable and maintainable code.
+- Interactive CLI: Provides a user-friendly command-line interface with clear instructions and feedback, making property management tasks intuitive and straightforward.
+- Customizable Listings: Allows agents to customize property listings, and users can view details tailored to their specific needs.
+- Data Security: Includes secure data handling practices to protect user information and property details.
+<br>
+
 **[Express Blog](https://github.com/KimSengThai/Express-Blog)**
 - Created a full-stack web blog application using Node.js, Express.js, EJS, and MongoDB. Implemented features for content management, and database interaction, ensuring seamless functionality and optimal performance.
 - Addressed performance concerns by optimizing load times through strategic utilization of EJS templating to render HTML server-side.
