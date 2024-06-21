@@ -5,12 +5,14 @@
 I'm from Sydney, a Software Engineer with a background as a Site Engineer for the past 3 years. I really enjoy learning languages like JavaScript and Python I also enjoy learning frameworks like React, Node.js and Flask. SQL Database such as postgreSQL is also fun.
 
 ## Skills and Experience
-* ⚛ React
 * 🕸 JavaScript
+* ⚛ React
 * 🔙 Node.js
 * 📅 PostgreSQL
 * 🐍 Python
+* 🧪 Flask
 * 💻 HTML, CSS
+* apple
 
 ## Example of Projects
 
