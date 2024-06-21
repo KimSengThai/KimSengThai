@@ -1,7 +1,7 @@
 ![image](https://github.com/KimSengThai/KimSengThai/assets/148199726/33172ae1-1bc8-49f9-b8df-a7857bc8a560)
 
 
-# Hello👋, I'm Kim
+# Hello👋, I'm Kim Seng
 I'm from Sydney, a Software Engineer with a background as a Site Engineer for the past 3 years. I really enjoy learning languages like JavaScript, Python and SQL. I also enjoy learning frameworks like React, Node.js and Flask.
 
 ## Skills and Experience
