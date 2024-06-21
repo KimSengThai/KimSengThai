@@ -2,7 +2,7 @@
 
 
 # Hello👋, I'm Kim Seng
-I'm based in Sydney as a Software Engineer, with a previous three-year experience as a Site Engineer. I have a strong passion for learning programming languages such as JavaScript, Python, and SQL, and I also enjoy exploring frameworks like React, Node.js, and Flask.
+I'm a Software Engineer based in Sydney, with a previous three-year experience as a Site Engineer. I have a strong passion for learning programming languages such as JavaScript, Python, and SQL, and I also enjoy exploring frameworks like React, Node.js, and Flask.
 
 ## Skills and Experience
 * 🕸 JavaScript
