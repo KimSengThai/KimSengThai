@@ -12,7 +12,7 @@ I'm from Sydney, a Software Engineer with a background as a Site Engineer for th
 * 🐍 Python
 * 💻 HTML, CSS
 
-## Example of Porjects
+## Example of Projects
 
 **Cool stuffs I've been working on:**
 
