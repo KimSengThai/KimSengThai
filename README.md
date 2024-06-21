@@ -12,9 +12,9 @@ I'm from Sydney, a Software Engineer with a background as a Site Engineer for th
 * 🐍 Python
 * 💻 HTML, CSS
 
-## Example of Work
+## Example of Porjects
 
-**Projects I've been working on:**
+**Cool stuffs I've been working on:**
 
 **[Story Spotlight (frontend, ](https://github.com/KimSengThai/StorySpotlight-Frontend) [backend)](https://github.com/KimSengThai/StorySpotlight-Backend)**
 - StorySpotlight is an intuitive and user-friendly book review platform designed to bring readers and book enthusiasts together. Developed using the PERN (PostgreSQL, Express.js, React, Node.js) stack, StorySpotlight provides a comprehensive interface for users to discover, review, and share their favorite books.
